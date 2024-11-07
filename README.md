@@ -37,5 +37,18 @@ Repeat this for as many time as required
 creating a merge conflit and resolving it
 merge conflict happen when two different branches are pushing into the same method or file resulting conflit 
 
-## solving in code editor 
+## Solving in code editor 
 remove warnings which git provided or click on incomming change or current chnage then commit thus the merge conflit is resolved
+
+## Undoing commits/stages in git
+to reset the staged file 
+git reset README.md(file name)
+it will reset onestep back from staging to modified
+
+To Completly undoing the commit and going one step before even after the commiting 
+git reset HEAD~1
+then it is will go back to modified
+
+## To check all the commits in the branch
+git log
+the commit will be arranged in reverse cronologgical order 
