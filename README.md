@@ -3,6 +3,10 @@ Starting of the git hub turorial
 # To know the differnce files in braches 
 git diff branchName
 
+# To reduce lines
+if the files is exist already then to commit and add
+git commit -am "message"
+
 # To create a new branch
 git checkout -b feature(name as descriptive as possible) and enter 
 Result: you will be redirected to that perticular branch
@@ -31,3 +35,7 @@ Repeat this for as many time as required
 
 # If having a merge conflit
 creating a merge conflit and resolving it
+merge conflict happen when two different branches are pushing into the same method or file resulting conflit 
+
+## solving in code editor 
+remove warnings which git provided or click on incomming change or current chnage then commit thus the merge conflit is resolved
