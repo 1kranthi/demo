@@ -21,3 +21,10 @@ click on compare and pull request
 Add the desciption of changes into the ddescription  and create a pull request by clicking create pull request 
 in te commits you can see that changes for the pull request 
 Click on murge pull request then the branches will be merged    
+
+# After completing the merge
+delete the feature branch after the merge
+git branch -d feature(branch name)
+
+# Repeat
+Repeat this for as many time as required
