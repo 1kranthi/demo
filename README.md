@@ -28,3 +28,6 @@ git branch -d feature(branch name)
 
 # Repeat
 Repeat this for as many time as required
+
+# If having a merge conflit
+creating a merge conflit and resolving it
