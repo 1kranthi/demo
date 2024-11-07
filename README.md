@@ -1,5 +1,8 @@
 Starting of the git hub turorial
 
+# To know the differnce files in braches 
+git diff branchName
+
 # To create a new branch
 git checkout -b feature(name as descriptive as possible) and enter 
 Result: you will be redirected to that perticular branch
